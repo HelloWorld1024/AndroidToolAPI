@@ -1,4 +1,4 @@
-package com.akuvox.phone.utils;
+
 
 /**
  * Tools for sending log output.
